@@ -32,3 +32,6 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ImPeekaboo&style=flat-square&color=blue" alt=""/>
 </div>
+
+### 🔥
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ImPeekaboo&theme=dark)](https://git.io/streak-stats)
