@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media.discordapp.net/attachments/1074079942792462478/1105731610680242176/chicken-centered.png" width="100"/>
+  <img src="https://raw.githubusercontent.com/mumimoi/logo/main/ap.png" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="http://discordapp.com/users/253478920626634752">
